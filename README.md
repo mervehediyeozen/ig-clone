@@ -1,4 +1,4 @@
-# Basşc IG Clone-App
+# Basic IG Clone-App
 
 ### (Tasarım amaçlıdır, birebir instagram web sayfası içeriğine uymasına özen gösterilmiştir.)
 ## Proje Görselleri
